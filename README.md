@@ -10,7 +10,7 @@
 ## 🚀 Xüsusiyyətlər
 
 - 🌐 **Ana Səhifə**: Ümumi məlumatlarla əsas səhifəyə daxil olun.  
-- 🎓 **Şagirdlər**: Tələbələr üçün uyğunlaşdırılmış resursları və faydalı materialları tapın.  
+- 🎓 **Tələbələr**: Tələbələr üçün uyğunlaşdırılmış resursları və faydalı materialları tapın.  
 - 📚 **Məlumat**: Platforma və onun məqsədi haqqında daha çox məlumat əldə edin.  
 - 💬 **Anlıq Söhbət**: Tələbələr arasında real vaxtda ünsiyyət qurmaq imkanı.  
 - 👻 **Anonim Etiraflar**: Fikirlərinizi anonim şəkildə sərbəst paylaşın!  
